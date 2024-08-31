@@ -1,10 +1,6 @@
-# JsonPowerDB
+# STUDENT-ENROLLMENT-FORM
 
 Micro Project Work
-
-contact email : csharshith.30@gmail.com
-
-LINK - http://localhost:8383/FormProject/index.html
 
 Title of the Project : Student Enrollment Form 
 
