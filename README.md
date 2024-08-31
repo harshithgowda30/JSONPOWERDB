@@ -4,7 +4,7 @@ Micro Project Work
 
 contact email : csharshith.30@gmail.com
 
-LINK - https://harshithgowda30.github.io/JsonPowerDB.github.io/
+LINK - https://github.com/harshithgowda30/JsonPowerDB
 
 Title of the Project : Student Enrollment Form 
 
